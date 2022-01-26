@@ -1,0 +1,3 @@
+id: 936007779209052201
+token: OTM2MDA3Nzc5MjA5MDUyMjAx.YfG7LA.M_-d5ueTVX7EUMrG7R8EqWSe_lU
+Invitation link: https://discord.com/api/oauth2/authorize?client_id=936007779209052201&scope=bot&permissions=1
